@@ -1,3 +1,8 @@
+/* TODO move this hover-image style to own stylesheet */
+a.hover-image:hover {
+    opacity: 0.4;
+}
+
 @font-face { font-family: ETBembo;
              src: url("ETBembo-RomanLF.ttf"); }
 @font-face { font-family: ETBembo;

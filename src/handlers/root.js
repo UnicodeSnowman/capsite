@@ -44,17 +44,22 @@ export default class Root extends React.Component {
                     <p>
                         Software Engineer, Doer of Things
                         <span className="sidenote-number" />
-                        <span className="sidenote">
-                            <Link to="thingGenerator">most things, really</Link>
+                        <span className="sidenote">most things, really
                             { /* 
+                                <Link to="thingGenerator">most things, really</Link>
                                 link to page that spits out a noun/name of a thing I like to do 
                                pull in things from various sources online?
                             */ }
                         </span>
                     </p>
                 </subtitle>
-                <Links />
-                <RouteHandler />
+                <section>
+                    <a href="https://github.com/UnicodeSnowman" className="hover-image"><img src="img/github.png" alt="github.com/UnicodeSnowman" /></a>
+                </section>
+                {/*
+                    <Links />
+                    <RouteHandler />
+                */}
                 {/*
                 <hr />
                 <footer>

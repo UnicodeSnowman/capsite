@@ -1,4 +1,7 @@
 node_modules
 public
 *.log
+*.swp
+*.swo
+.DS_Store
 

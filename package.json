@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "./node_modules/pm2/bin/pm2-dev run src/server --next-gen-js"
+    "start": "pm2-dev run src/server/index.js --next-gen-js"
   },
   "author": "",
   "license": "ISC",
