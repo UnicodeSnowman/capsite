@@ -58,8 +58,8 @@ export default class Root extends React.Component {
                 </section>
                 {/*
                     <Links />
-                    <RouteHandler />
                 */}
+                <RouteHandler />
                 {/*
                 <hr />
                 <footer>
