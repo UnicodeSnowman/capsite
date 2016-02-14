@@ -55,6 +55,7 @@ export default class Root extends React.Component {
                 </subtitle>
                 <section>
                     <a href="https://github.com/UnicodeSnowman" className="hover-image"><img src="img/github.png" alt="github.com/UnicodeSnowman" /></a>
+                    <a href="https://www.linkedin.com/in/christophercaplinger" className="hover-image"><img src="img/linkedin.png" alt="linkedin.com/in/christophercaplinger" /></a>
                 </section>
                 {/*
                     <Links />

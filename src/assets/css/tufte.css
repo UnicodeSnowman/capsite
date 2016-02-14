@@ -1,4 +1,7 @@
 /* TODO move this hover-image style to own stylesheet */
+a.hover-image {
+    margin-right: 5px;
+}
 a.hover-image:hover {
     opacity: 0.4;
 }
